@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: populyarnye-igrovye-avtomaty.github.io
+Sitemap: https://populyarnye-igrovye-avtomaty.github.io/sitemap.xml
